@@ -4,7 +4,8 @@
 > This repository belongs to the **Galhoom Path** organization (**Study** · **Problem Solving** · **Interview Prep** · **Projects**).  
 > It is a **PHP DSA Learn + Solve gym** — not a Study repo and not a solutions dump.  
 > → [Organization home](https://github.com/galhoom-path)
-[![PHP 8.5+](https://img.shields.io/badge/PHP-8.5%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+
+[![PHP 8.5+(https://img.shields.io/badge/PHP-8.5%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![Gates](https://img.shields.io/badge/Gates-238%20stubs-blue)](02-Problems/README.md)
 [![Hunter Solves First](https://img.shields.io/badge/Spoilers-Off-critical)](repo-ideas/21-hunter-solves-first-no-direct-answers.md)
 [![CI](https://github.com/galhoom-path/php-problem-solving-solo-leveling/actions/workflows/ci.yml/badge.svg)](https://github.com/galhoom-path/php-problem-solving-solo-leveling/actions/workflows/ci.yml)
