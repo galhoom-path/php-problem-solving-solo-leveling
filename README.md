@@ -1,9 +1,13 @@
 # ⚔️ PHP Problem Solving — Solo Leveling Edition
 
+> 🛤️ **Part of [Galhoom Path](https://github.com/galhoom-path)** · Track 2 — Problem Solving  
+> This repository belongs to the **Galhoom Path** organization (**Study** · **Problem Solving** · **Interview Prep** · **Projects**).  
+> It is a **PHP DSA Learn + Solve gym** — not a Study repo and not a solutions dump.  
+> → [Organization home](https://github.com/galhoom-path)
 [![PHP 8.5+](https://img.shields.io/badge/PHP-8.5%2B-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![Gates](https://img.shields.io/badge/Gates-238%20stubs-blue)](02-Problems/README.md)
 [![Hunter Solves First](https://img.shields.io/badge/Spoilers-Off-critical)](repo-ideas/21-hunter-solves-first-no-direct-answers.md)
-[![CI](https://github.com/Galhoom22/php-problem-solving-solo-leveling/actions/workflows/ci.yml/badge.svg)](https://github.com/Galhoom22/php-problem-solving-solo-leveling/actions/workflows/ci.yml)
+[![CI](https://github.com/galhoom-path/php-problem-solving-solo-leveling/actions/workflows/ci.yml/badge.svg)](https://github.com/galhoom-path/php-problem-solving-solo-leveling/actions/workflows/ci.yml)
 
 **Learn + Solve gym** for PHP DSA: 238 Gate stubs, climb **E → S**, you write every answer.  
 Not a solutions dump · not Laravel/OOP · not a full NeetCode mirror.
@@ -80,7 +84,7 @@ Milestones: [`SYSTEM-LOG.md`](SYSTEM-LOG.md)
 | Laws | [Hunter Solves First](repo-ideas/21-hunter-solves-first-no-direct-answers.md) · [PHP Fitness](repo-ideas/19-php-fitness-filter.md) · [`AGENTS.md`](AGENTS.md) |
 | Contribute / sources | [`CONTRIBUTING.md`](CONTRIBUTING.md) · [`SOURCES.md`](SOURCES.md) |
 | Graduation | [`repo-ideas/20`](repo-ideas/20-big-tech-faang-graduation.md) |
-| Sibling repos | [OOP lectures](https://github.com/Galhoom22/php-oop-documentation) · [Interview Qs](https://github.com/Galhoom22/technical-interview-questions) · [C++ Pareto set](https://github.com/Galhoom22/LeetCode-DSA-Pareto-Set) |
+| Sibling repos | [OOP lectures](https://github.com/galhoom-path/php-oop) · [Interview Qs](https://github.com/galhoom-path/technical-interview-questions) · [C++ Pareto set](https://github.com/galhoom-path/LeetCode-DSA-Pareto-Set) |
 
 ```bash
 php scripts/ci/validate-repo.php
