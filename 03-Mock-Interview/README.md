@@ -15,7 +15,7 @@ Not a product project. Prove you can clear under pressure:
 1. Clarify constraints  
 2. Examples  
 3. Brute → optimize  
-4. Code in PHP 8.5  
+4. Code in PHP 8.6  
 5. Test edge cases  
 6. State Time / Space  
 

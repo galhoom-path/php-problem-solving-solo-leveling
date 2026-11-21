@@ -12,7 +12,7 @@ Details: `21`.
 
 ## Product
 
-**Home of Problem Solving + DSA specialized for PHP 8.5** — Learn + Solve system, not a solutions dump.
+**Home of Problem Solving + DSA specialized for PHP 8.6** — Learn + Solve system, not a solutions dump.
 
 | Is | Is not |
 |:---|:---|
@@ -34,7 +34,7 @@ PHP-fit required climb — `19`.
 | Mode | Requirement |
 |:---|:---|
 | Learn | Plain teaching (concepts, Backend Link) — no opening algorithm dump |
-| Solve | Hunter implements in PHP 8.5 and can explain |
+| Solve | Hunter implements in PHP 8.6 and can explain |
 
 Answer-only Gate = invalid. Lecture-only Skill Book = invalid.
 

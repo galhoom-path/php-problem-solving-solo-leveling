@@ -4,7 +4,7 @@
 
 ## Product
 
-- [ ] One purpose: PHP 8.5 Problem Solving + DSA (Learn + Solve)
+- [ ] One purpose: PHP 8.6 Problem Solving + DSA (Learn + Solve)
 - [ ] Absolute beginners can start at Awakening / E-Rank
 - [ ] Exit path defined: Big Tech Ready / FAANG Ready (`20`)
 - [ ] Honest FAANG stance: PHP is not the default live-coding language

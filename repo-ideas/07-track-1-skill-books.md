@@ -1,6 +1,6 @@
 # 07 — Track 1: Skill Books
 
-> How Skill Books teach DSA / PS patterns in PHP 8.5.  
+> How Skill Books teach DSA / PS patterns in PHP 8.6.  
 > Live catalog: [`../01-Patterns-And-Fundamentals/PATTERN-CATALOG.md`](../01-Patterns-And-Fundamentals/PATTERN-CATALOG.md).
 
 ## Parts (rank-gated)
@@ -17,7 +17,7 @@ Not in required Skill Books: linked-list pointer theater, union-find, bit olympi
 
 1. What / when  
 2. Backend Link (`18`)  
-3. Tiny annotated PHP 8.5 example (hunter types it)  
+3. Tiny annotated PHP 8.6 example (hunter types it)  
 4. Common mistakes  
 5. CHECK before related Gates  
 

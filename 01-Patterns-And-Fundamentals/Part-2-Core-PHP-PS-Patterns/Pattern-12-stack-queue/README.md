@@ -19,7 +19,7 @@ Use when the problem matches this pattern’s trigger (see What / CHECK).
 
 
 ## Teaching note
-AI may show a **tiny** annotated PHP 8.5 example in chat.
+AI may show a **tiny** annotated PHP 8.6 example in chat.
 You type it into `example.php` yourself.
 
 ## CHECK

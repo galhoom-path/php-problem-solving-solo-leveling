@@ -1,6 +1,6 @@
 # Part 0 — PHP Basics
 
-Target: **PHP 8.5** with `declare(strict_types=1);`
+Target: **PHP 8.6** with `declare(strict_types=1);`
 
 | Lesson | Topic | Status |
 |:---|:---|:---|

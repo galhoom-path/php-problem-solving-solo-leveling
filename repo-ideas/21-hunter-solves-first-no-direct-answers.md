@@ -22,7 +22,7 @@ Step A — AI explains what the problem wants
           (inputs, outputs, examples, constraints, success criteria)
           NO algorithm dump. NO full code.
 
-Step B — Hunter tries to solve alone in PHP 8.5
+Step B — Hunter tries to solve alone in PHP 8.6
           (writes their own solution file)
 
 Step C — Only if the hunter is stuck: AI coaches

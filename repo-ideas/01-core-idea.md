@@ -7,12 +7,12 @@
 
 This repository is dedicated to **one thing only**:
 
-> **Problem Solving + DSA specialized for PHP 8.5 — as a Learn + Solve system.**
+> **Problem Solving + DSA specialized for PHP 8.6 — as a Learn + Solve system.**
 
 It is a **learning academy and a solving gym**, not a solutions dump.
 
 - **Opening rule:** Gates are authored **without finished solutions first**; the AI explains what the problem wants, the hunter tries alone, then non-spoiler coaching (`21`)
-- Solutions here are **PHP only** (PHP 8.5)
+- Solutions here are **PHP only** (PHP 8.6)
 - PHP-specialized training — not language-agnostic DSA with PHP pasted on (`19`)
 - Problems are curated from many platforms, then filtered for PHP fitness
 - No full OOP / OOD / Design Patterns / Laravel courses here — sibling study repos
@@ -31,13 +31,13 @@ Exit: **Big Tech Ready** / **FAANG Ready** (`20`) — honest that PHP is not the
 Every item must support both:
 
 1. **Learn** — teach the idea in plain language
-2. **Solve** — hunter writes PHP 8.5 and explains
+2. **Solve** — hunter writes PHP 8.6 and explains
 
 A Gate with only an answer is incomplete. A lecture with no practice is incomplete.
 
 ## Motto
 
-> Learn the Skill → Enter the Gate → Write PHP 8.5 → Level Up → Arise.
+> Learn the Skill → Enter the Gate → Write PHP 8.6 → Level Up → Arise.
 
 ## Why Solo Leveling?
 

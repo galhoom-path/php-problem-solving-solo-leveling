@@ -23,7 +23,7 @@ A change counts as an upgrade when it improves at least one of:
 1. **Clarity** — clearer README/Gate brief, less ambiguity, better naming  
 2. **Consistency** — matches tracks, Gate template, XP/rank rules, English-Only  
 3. **Correctness** — fixes wrong metadata, broken links, CI gaps, false claims  
-4. **Standards** — PHP 8.5 + `strict_types`, typed stubs, Hunter Solves First  
+4. **Standards** — PHP 8.6 + `strict_types`, typed stubs, Hunter Solves First  
 5. **Curation quality** — PHP Fitness Filter, no junk/duplicate spam on the required climb  
 6. **Operability** — better CI, branch protection docs, agent guidance, import discipline  
 7. **Honesty** — FAANG/PHP claims stay accurate; Side Quests labeled as optional  

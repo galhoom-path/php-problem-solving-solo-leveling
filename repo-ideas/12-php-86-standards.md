@@ -1,8 +1,8 @@
-# 12 — PHP 8.5 problem-solving standards
+# 12 — PHP 8.6 problem-solving standards
 
 > Coding conventions for Gate solutions and teaching examples.
 
-1. Target **PHP 8.5** everywhere  
+1. Target **PHP 8.6** everywhere  
 2. Every file: `<?php` + `declare(strict_types=1);`  
 3. Typed signatures: `function twoSum(array $nums, int $target): array`  
 4. Clear names: `camelCase` functions · `PascalCase` classes when needed  
@@ -12,3 +12,10 @@
 8. `ListNode` / `TreeNode` only in Interview Armor (or Side Quests), not early E–C core  
 9. No Laravel / framework inside Gate solutions  
 10. Local scratch: root `playground.php` — never Gate answers
+
+
+## PHP 8.6 fitness (when the pattern allows)
+
+- Prefer `clamp()` over nested `min`/`max` for bounds.
+- Prefer partial application over noisy arrow wrappers when teaching callbacks later.
+- Do not use deprecated 8.6 APIs (`return` in `finally`, `mb_ereg*`, `is_long` / `is_double`, `spl_object_hash`).

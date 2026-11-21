@@ -117,7 +117,7 @@ Folder idea:
 1. Unlock only after PHP Core Climb reaches **B-Rank+** (patterns already strong).
 2. Label every Gate:
    > Interview Armor — asked in Big Tech/FAANG; learned after PHP-fit foundations.
-3. Still Learn + Solve in **PHP 8.5** inside the repo.
+3. Still Learn + Solve in **PHP 8.6** inside the repo.
 4. Then Transfer Sprint rewrites critical clears in the target interview language (can live in `transfer/` notes or parallel files clearly marked).
 5. Do **not** move Interview Armor into early E/D ranks (breaks PHP-feeling + progression).
 

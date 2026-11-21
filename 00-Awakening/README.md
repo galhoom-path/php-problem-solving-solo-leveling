@@ -9,7 +9,7 @@
 
 ## Mission
 
-Enough **PHP 8.5** + **problem-solving literacy** to enter `01-E-Gates` without drowning.
+Enough **PHP 8.6** + **problem-solving literacy** to enter `01-E-Gates` without drowning.
 
 ## Parts
 

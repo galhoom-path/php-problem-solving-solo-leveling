@@ -5,7 +5,7 @@
 
 ## What this repo is
 
-PHP 8.5 **Learn + Solve** gym (Solo Leveling): Skill Books → Gates → mocks → Interview Armor.  
+PHP 8.6 **Learn + Solve** gym (Solo Leveling): Skill Books → Gates → mocks → Interview Armor.  
 Exit: **Big Tech / FAANG Ready** (honest: PHP is not the default FAANG live-coding language).
 
 **Not:** solutions dump · OOP / Design Patterns / Laravel course.
@@ -41,7 +41,7 @@ Before editing: **What becomes more professional after this?**
 
 ## Code standards
 
-- PHP 8.5 · `declare(strict_types=1);` · typed signatures  
+- PHP 8.6 · `declare(strict_types=1);` · typed signatures  
 - No framework inside Gate solutions · prefer arrays / maps / `Spl*`
 
 ## Do / Do not

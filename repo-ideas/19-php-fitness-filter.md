@@ -23,7 +23,7 @@ then the Gate failed the PHP Fitness Filter.
 Before a problem enters the **required climb**, answer YES to most of these:
 
 1. **PHP-natural data model?** Uses arrays, associative arrays, strings, simple objects — not pointer gymnastics.
-2. **Idiomatic to write in PHP 8.5?** A solid PHP backend/dev would not laugh at this exercise.
+2. **Idiomatic to write in PHP 8.6?** A solid PHP backend/dev would not laugh at this exercise.
 3. **Teaches PHP muscle?** Practices real PHP tools (`array_*`, loops, maps, `Spl*` when useful, typed functions, string handling).
 4. **Backend Link exists?** Direct or indirect job value for PHP backends (see `18-backend-career-links.md`).
 5. **Feeling check:** After clearing, the hunter feels stronger **as a PHP problem solver**, not only as a generic LeetCode athlete.
