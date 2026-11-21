@@ -36,7 +36,7 @@ Build a **huge PHP-only problem collection** by pulling famous challenges from m
 2. Prefer platforms with **official PHP support** when practicing online (LeetCode, HackerRank, Codewars, Exercism, Edabit, etc.).
 3. **PHP Fitness Filter first** (`19-php-fitness-filter.md`): do not import into the required climb if the problem feels like C++/Java DSA theater with PHP syntax.
 4. Prefer array/string/map/nested-structure problems; reject heavy linked-list pointer drills and heavy CP structures for the core path.
-5. For platforms where PHP may be limited/unavailable in the online judge (some CP sites), allow only if the problem still passes PHP Fitness and the student solves locally in PHP 8.5.
+5. For platforms where PHP may be limited/unavailable in the online judge (some CP sites), allow only if the problem still passes PHP Fitness and the student solves locally in PHP 8.6.
 6. Every Gate README must end with a `Source:` (or `Sources:`) line including platform + URL.
 7. Do **not** paste copyrighted problem statements verbatim at huge length if the platform forbids it — link the source and write a short System Brief / paraphrase where needed.
 8. Deduplicate: if “Two Sum” appears on multiple sites, keep **one Gate**, list multiple Sources.
@@ -67,7 +67,7 @@ Normalization rules:
 4) Assign pattern tag + Min Hunter Rank + XP
 5) Place folder ONLY in the correct ordered slot
 6) Write Gate README + Source link
-7) Student solves in PHP 8.5 locally (and/or on the platform if PHP is supported)
+7) Student solves in PHP 8.6 locally (and/or on the platform if PHP is supported)
 8) Update Gate Source Map + Status Window when cleared
 ```
 

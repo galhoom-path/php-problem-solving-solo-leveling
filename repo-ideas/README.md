@@ -39,7 +39,7 @@
 | Instant Dungeons | [`09-track-3-instant-dungeons.md`](09-track-3-instant-dungeons.md) |
 | UX | [`10-ux-conventions.md`](10-ux-conventions.md) |
 | Curriculum | [`11-core-curriculum.md`](11-core-curriculum.md) |
-| PHP 8.5 standards | [`12-php-85-standards.md`](12-php-85-standards.md) |
+| PHP 8.6 standards | [`12-php-86-standards.md`](12-php-86-standards.md) |
 | AI behavior | [`13-ai-skill-behavior.md`](13-ai-skill-behavior.md) |
 | Quality checklist | [`15-quality-checklist.md`](15-quality-checklist.md) |
 | FAANG transfer | [`17-faang-prep-and-language-transfer.md`](17-faang-prep-and-language-transfer.md) |

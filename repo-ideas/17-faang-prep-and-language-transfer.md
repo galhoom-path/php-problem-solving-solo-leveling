@@ -15,7 +15,7 @@ That does **not** make this repo useless for FAANG prep.
 Why:
 - FAANG interviews mostly test **Problem Solving + DSA patterns**, not “can you write Laravel”.
 - Patterns are language-transferable: Two Pointers, Sliding Window, BFS/DFS, Heaps, Graphs, DP…
-- If you master the pattern in PHP 8.5, you can **re-implement the same idea** in the interview language later.
+- If you master the pattern in PHP 8.6, you can **re-implement the same idea** in the interview language later.
 - Explaining the approach out loud matters as much as syntax — this repo trains that.
 
 ### Product stance
@@ -31,7 +31,7 @@ Full graduation definition: `20-big-tech-faang-graduation.md`.
 
 | Goal | How this repo helps |
 |:---|:---|
-| **Get better at PHP** | All solutions, teaching, and practice are PHP 8.5 |
+| **Get better at PHP** | All solutions, teaching, and practice are PHP 8.6 |
 | **Prepare for FAANG-style interviews** | PHP-fit core + required Interview Armor + mocks + transfer (`20`) |
 | **Coming from another language** | Learn DSA the PHP way, then Transfer Sprint back to interview language |
 | **PHP-native hunter aiming at FAANG** | Core climb → Mock Gauntlet → Interview Armor → Transfer Sprint → FAANG Ready badge |
@@ -73,7 +73,7 @@ If the hunter already knows Python/Java/JS/C++:
 
 1. They may soft-skip deep PHP Awakening after a short placement CHECK.
 2. They still follow Gate order for DSA progression.
-3. They write solutions in **PHP 8.5** inside this repo (repo rule).
+3. They write solutions in **PHP 8.6** inside this repo (repo rule).
 4. After clearing a Gate, optional **Transfer Drill**:
    - Re-state the approach in plain English
    - Mentally map PHP arrays/`SplPriorityQueue`/etc. to their interview language

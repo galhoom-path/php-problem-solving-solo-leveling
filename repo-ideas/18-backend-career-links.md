@@ -204,7 +204,7 @@ Tell the hunter:
 ## AI checklist before finishing a Skill Book / Gate
 ```
 - [ ] Pattern explained
-- [ ] PHP 8.5 practice exists
+- [ ] PHP 8.6 practice exists
 - [ ] Backend Link present (direct and/or indirect)
 - [ ] Job-market takeaway sentence present
 - [ ] No claim that every LeetCode problem is copied into production code

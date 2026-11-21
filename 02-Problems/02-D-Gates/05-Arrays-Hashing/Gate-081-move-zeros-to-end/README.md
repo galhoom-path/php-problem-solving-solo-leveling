@@ -14,7 +14,7 @@ Push every `0` to the end of the list while keeping the relative order of non-ze
 
 Example: `[0,1,0,3,12]` → `[1,3,12,0,0]`.
 
-(W3Schools weekly-style challenge — solve in PHP 8.5.)
+(W3Schools weekly-style challenge — solve in PHP 8.6.)
 
 ## What This Gate Is Testing
 Stable partition / two-pointer write index.

@@ -13,7 +13,7 @@
 | Pattern bucket names | [Blind 75](https://neetcode.io/practice/practice/blind75) · [NeetCode 150](https://neetcode.io/practice/practice/neetcode150) · [250](https://neetcode.io/practice/practice/neetcode250) · [All](https://neetcode.io/practice/practice/allNC) — used as **selection ideas**, not as a mirrored dump |
 | Rank / Fitness / Hunter Solves First | Repo laws under [`repo-ideas/`](repo-ideas/) (esp. [`19`](repo-ideas/19-php-fitness-filter.md), [`21`](repo-ideas/21-hunter-solves-first-no-direct-answers.md)) |
 | Sibling polish ideas | Hunter’s own repos listed below — structure/pitch only, not their curricula |
-| Runtime target | **PHP 8.5** · [PHP Manual](https://www.php.net/manual/en/) |
+| Runtime target | **PHP 8.6** · [PHP Manual](https://www.php.net/manual/en/) |
 
 **Audit:** `php scripts/audit-sources-and-links.php` checks every Gate has a Source line, internal markdown links resolve, and HTTP URLs respond. Some platforms (LeetCode, Codeforces, Exercism) often return **403** to bots; treat that as bot-block, not a dead link, when the path matches a known problem slug.
 
@@ -70,4 +70,4 @@
 | A | Harder Medium / light Hard |
 | S | Hard / prestige |
 
-Runtime: **PHP 8.5** · [PHP Manual](https://www.php.net/manual/en/)
+Runtime: **PHP 8.6** · [PHP Manual](https://www.php.net/manual/en/)

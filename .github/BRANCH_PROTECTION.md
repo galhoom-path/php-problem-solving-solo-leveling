@@ -36,7 +36,7 @@ This repo should already have an active **Protect main** ruleset; keep status ch
 | Gate Rank matches E/D/C/B/A/S folder | Strict Progression Law |
 | No ListNode / heavy CP in E–C | PHP Fitness Filter |
 | No open `spoilers/` under `02-Problems` | Hunter Solves First |
-| `declare(strict_types=1)` + `php -l` | PHP 8.5 standards |
+| `declare(strict_types=1)` + `php -l` | PHP 8.6 standards |
 | Letters are Latin-script only in scanned files/paths | English-Only Law (`22`) |
 | Design law files present (incl. professionalism ratchet `23`) | Mission / graduation / coaching / craft bar |
 | Sacred paths not deleted in PRs | Protect main from accidental wipe |

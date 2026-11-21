@@ -6,7 +6,7 @@ Competency map: HackerRank PHP (Basic) — PHP Environment (adapted)
 ## Learn
 This gym runs on the **CLI**, not a full LAMP install:
 
-- Install PHP 8.4+ / target 8.5 (`php -v`)
+- Install PHP 8.6+ / target 8.6 (`php -v`)
 - Run files: `php playground.php` / `php path/to/solution-1.php`
 - No Apache/Nginx required to clear Gates
 - No MySQL required for the PHP-fit climb

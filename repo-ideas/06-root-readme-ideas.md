@@ -9,7 +9,7 @@ Root `README.md` must keep these phrases: `STATUS WINDOW`, `Hunter Rank`, `Arise
 
 ## Section checklist
 
-1. Badges (PHP 8.5, Gate count, Spoilers Off, English, CI)
+1. Badges (PHP 8.6, Gate count, Spoilers Off, English, CI)
 2. One-line pitch + System Notice
 3. **At a glance** (what / how / order / start / laws)
 4. Repository map (tracks `00`→`04`)

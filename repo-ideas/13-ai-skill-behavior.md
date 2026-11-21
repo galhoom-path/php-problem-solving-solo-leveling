@@ -6,7 +6,7 @@
 ## Solving contract
 
 1. Brief what the Gate wants (no algorithm dump)  
-2. Hunter attempts alone in PHP 8.5  
+2. Hunter attempts alone in PHP 8.6  
 3. If stuck → coaching ladder (questions → hints → scaffold)  
 4. Hunter writes every `solution-*.php`
 
